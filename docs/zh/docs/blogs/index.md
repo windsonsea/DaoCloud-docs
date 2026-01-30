@@ -11,6 +11,10 @@ hide:
 
 ## 2026 年
 
+- [OCI 正在悄悄「占领一切」](./2026/oci.md)
+
+    前阵子 KubeCon North America（亚特兰大那场）结束后，有篇文章总结得特别到位：OCI 正在悄悄地把各种东西都装进自己的体系。
+
 - [拓扑感知调度：为 AI 工作负载打造更智能的调度方案](./2026/topology-aware-scheduling.md)
 
     在 KubeCon NA 2025 上，AI/ML 领域的讨论中有一个主题占据主导地位：
